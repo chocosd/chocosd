@@ -5,7 +5,7 @@
   I've been off of Github for a bit recently as my last company used bitbucket, but i'm back again
 
   I'm a passionate front-end developer who loves turning ideas into interactive digital experiences.
-  I specialize in JavaScript/TypeScript ecosystems, and I’m always exploring new tools, frameworks, and languages.
+  I specialise in Angular/JavaScript/TypeScript ecosystems, and I’m always exploring new tools, frameworks, and languages.
 </p>
 
 </div>
